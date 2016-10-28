@@ -4,8 +4,9 @@ layout: home
 
 ### Associated Bands/Artists
 - mouselion
-- https://mouselion.bandcamp.com/
-- daroo
-- https://daroo1.bandcamp.com/
-- [future skin and mr. snake](https://futureskin.bandcamp.com/releases)
+- [mouselion.bandcamp.com](https://mouselion.bandcamp.com/)
+- Daroo
+- [daroo1.bandcamp.com](https://daroo1.bandcamp.com/)
+- Future Skin and Mr. Snake
+-[futureskin.bandcamp.com](https://futureskin.bandcamp.com/releases)
 - 
