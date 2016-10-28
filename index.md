@@ -8,4 +8,4 @@ layout: home
 - daroo
 - https://daroo1.bandcamp.com/
 - future skin and mr. snake
-- https://futureskin.bandcamp.com/releases
+- <a href="https://futureskin.bandcamp.com/releases" title=https://futureskin.bandcamp.com/releases>
