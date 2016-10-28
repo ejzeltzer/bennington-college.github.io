@@ -7,5 +7,5 @@ layout: home
 - https://mouselion.bandcamp.com/
 - daroo
 - https://daroo1.bandcamp.com/
-- future skin and mr. snake
-- <a href="https://futureskin.bandcamp.com/releases" title=https://futureskin.bandcamp.com/releases>
+- [future skin and mr. snake](https://futureskin.bandcamp.com/releases)
+- 
