@@ -3,7 +3,7 @@ layout: home
 ---
 
 ### Associated Bands/Artists
-- mouselion
+- <font> size="6"> mouselion </font>
 - [mouselion.bandcamp.com](https://mouselion.bandcamp.com/)
 - Daroo
 - [daroo1.bandcamp.com](https://daroo1.bandcamp.com/)
